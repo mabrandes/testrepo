@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> newbranch
 hello I am Matthias
 I just created a new branch
