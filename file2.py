@@ -2,6 +2,7 @@
 print("test")
 
 #a change
+<<<<<<< HEAD
 #test2
 =======
 import numpy as np
@@ -14,3 +15,6 @@ plt.plot(a,y)
 
 plt.show()
 >>>>>>> newbranch
+=======
+
+>>>>>>> a3f85ae7817fdbeb29a55d325d2a869e93390f7c
